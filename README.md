@@ -1,43 +1,43 @@
-# Hello, World! 👋
+# Hello, Salesforce Enthusiasts! 👋
 
-I'm Your Name, a passionate Software Developer from Anywhere, Earth. Welcome to my GitHub profile!
+I'm John Doe, a passionate Salesforce Developer and Administrator from San Francisco, California. Welcome to my GitHub profile!
 
 🔭 I’m currently working on: 
-- Building awesome web applications
-- Contributing to open-source projects
-- Learning new technologies
+- Implementing custom Salesforce solutions
+- Exploring Lightning Web Components
+- Sharing Salesforce tips and tricks on my blog
 
 🌱 I’m currently learning:
-- React Native
-- Docker
-- Machine Learning
+- Salesforce DX
+- Advanced Apex development
+- Integrations with external systems
 
 💬 Ask me about:
-- JavaScript
-- Node.js
-- Front-end development
+- Salesforce configuration and customization
+- Apex development
+- Salesforce best practices
 
 📫 How to reach me:
-- [Email](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourusername)
+- [Email](mailto:john.doe@email.com)
+- [LinkedIn](https://www.linkedin.com/in/johndoe)
+- [Twitter](https://twitter.com/johndoe_sfdc)
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I enjoy hiking and photography when I'm not coding.
+⚡ Fun fact: I'm a certified Salesforce MVP and a big fan of automation in Salesforce workflows!
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+[![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe-sfdc&show_icons=true&theme=dark)](https://github.com/johndoe-sfdc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe-sfdc&layout=compact&theme=dark)](https://github.com/johndoe-sfdc)
 
-## Projects
+## Salesforce Projects
 
-Here are some of my notable GitHub projects:
+Here are some of my notable Salesforce projects:
 
-- [Project 1](https://github.com/yourusername/project1) - A brief description of Project 1.
-- [Project 2](https://github.com/yourusername/project2) - A brief description of Project 2.
-- [Project 3](https://github.com/yourusername/project3) - A brief description of Project 3.
+- [Salesforce Project 1](https://github.com/johndoe-sfdc/salesforce-project1) - Description of your Salesforce project 1.
+- [Salesforce Project 2](https://github.com/johndoe-sfdc/salesforce-project2) - Description of your Salesforce project 2.
+- [Salesforce Project 3](https://github.com/johndoe-sfdc/salesforce-project3) - Description of your Salesforce project 3.
 
-Feel free to explore my repositories to see more of my work.
+Feel free to explore my repositories to see more of my Salesforce work.
 
 Thanks for visiting my profile! 😄
