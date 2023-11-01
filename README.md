@@ -18,9 +18,8 @@ I'm John Doe, a passionate Salesforce Developer and Administrator from San Franc
 - Salesforce best practices
 
 📫 How to reach me:
-- [Email](mailto:john.doe@email.com)
-- [LinkedIn](https://www.linkedin.com/in/johndoe)
-- [Twitter](https://twitter.com/johndoe_sfdc)
+- [Email](mailto:aydemirim5@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aydemirmurat)
 
 😄 Pronouns: He/Him
 
